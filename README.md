@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mdejazbkd
+# Hi 👋 I'm Md Ejaz Alam
 
 I'm a student currently learning programming fundamentals and problem-solving.
 
